@@ -1,5 +1,6 @@
 .tabs
 	a(href="index.html")#companies-tab.tab Companies
+	a(href="employers.html")#employers-tab.tab Employers
 	a(href="groups.html")#groups-tab.tab Groups
 
 script.
@@ -8,6 +9,9 @@ script.
 		case '':
 		case 'index.html':
 			document.getElementById("companies-tab").className = "tab active";
+			break;
+		case 'index.html':
+			document.getElementById("employers-tab").className = "tab active";
 			break;
 		case 'groups.html':
 			document.getElementById("groups-tab").className = "tab active";
