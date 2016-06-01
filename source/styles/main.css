@@ -11,10 +11,10 @@ body {
 	padding: 0;
 }
 a {
-	color: hsl(200, 80%, 60%);
+	color: #006633;
 }
 a:visited {
-	color: hsl(200, 80%, 80%);
+	color: #006633;
 }
 
 /* headers */

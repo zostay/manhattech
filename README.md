@@ -1,4 +1,4 @@
-Source for [Manhattech](http://www.manhattech.com/), a directory of tech companies, groups, and employers in the Manhattan, Kansas area.
+Source for [Manhattech](http://www.manhattech.com/), a directory of tech companies, groups, and employers in the Manhattan, Kansas area. This was forked from [Made In A2](https://github.com/sampl/madeina2)
 
 ### Technology Company Requirements
 
@@ -8,15 +8,6 @@ We've added a few restrictions to keep this a high-quality list:
  - **Location**: The company must have some employees working in Manhattan, KS or the surrounding communities.
 
 If your company meets the above requirements and you'd like to be added to the list, fork the repo, add your html/css (with your brand colors) and submit a pull request. If you don't want to create a pull request, you can also email bryce@flinthills.io with your companies information.
-
-### Employer Company Requirements
-
-We've added a few restrictions to keep this a high-quality list:
-
- - **Technology and Location**: The company must actively employ and hire positions in IT, development, or related fields in Manhattan, KS or the surrounding communities.
-
-If your company meets the above requirements and you'd like to be added to the list, fork the repo, add your html/css (with your brand colors) and submit a pull request. If you don't want to create a pull request, you can also email bryce@flinthills.io with your companies information.
-
 
 ### Contributing
 
