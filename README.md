@@ -7,14 +7,13 @@ We've added a few restrictions to keep this a high-quality list:
  - **Technology**: The company's primary product or service must be an information technology product or service.
  - **Location**: The company must have some employees working in Manhattan, KS or the surrounding communities.
 
-If your company meets the above requirements and you'd like to be added to the list, fork the repo, add your html/css (with your brand colors) and submit a pull request. If you don't want to create a pulle request, you can also email bryce@flinthills.io with your companies information.
+If your company meets the above requirements and you'd like to be added to the list, fork the repo, add your html/css (with your brand colors) and submit a pull request. If you don't want to create a pull request, you can also email bryce@flinthills.io with your companies information.
 
 ### Employer Company Requirements
 
 We've added a few restrictions to keep this a high-quality list:
 
- - **Technology**: The company must actively employ and hire positions in IT, development, or related fields.
- - **Location**: The company must have some employees working in Manhattan, KS or the surrounding communities.
+ - **Technology and Location**: The company must actively employ and hire positions in IT, development, or related fields in Manhattan, KS or the surrounding communities.
 
 If your company meets the above requirements and you'd like to be added to the list, fork the repo, add your html/css (with your brand colors) and submit a pull request. If you don't want to create a pull request, you can also email bryce@flinthills.io with your companies information.
 
@@ -29,4 +28,4 @@ Getting started:
 
 Run `grunt` to build the site and start a webserver at [localhost:8000](http://localhost:8000/). Install LiveReload to automatically refresh the page when you've made changes.
 
-To deploy, get an `aws.json` file from Bryce, add to the project root, and run `grunt deploy`.
+To deploy, get an `aws.json`, add to the project root, and run `grunt deploy`.
