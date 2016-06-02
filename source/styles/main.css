@@ -80,7 +80,7 @@ a:visited {
 .top-bar .logo {
 	max-width: 100px;
 	width: 100%;
-	margin: 0;
+	margin: 20px 0px 0px 0px;
 }
 
 /* tabs */
