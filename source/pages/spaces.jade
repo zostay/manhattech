@@ -1,0 +1,43 @@
+extends ../layouts/main
+
+block title
+	title Manhattech - Spaces
+
+block header
+	.top-bar
+		include ../includes/tabs
+		h1 Manhattech
+		a.go-home(href="/")
+			img.logo(src="images/manhattech.png", alt="Manhattech")
+
+block content
+
+	.group-wrapper
+		.group
+			img.pic(src="images/spaces/thefellowmhk.jpg")
+			h2 The Fellow
+			h4 1125 Westport Drive, Manhattan, KS, 66502
+			p The Fellow serves students, entrepreneurs, business leaders, and creatives in the Manhattan community. They provide a location to connect and get motivated in order to start, build, and grow businesses. They are cultivating a culture of creative business, entrepreneurship and of giving back to the community we live in. The Fellow connects young and seasoned entrepreneurs in a vibrant, collaborative space.
+			.links
+				a(href="http://www.thefellowmhk.com", target="_blank") Website
+				a(href="https://www.facebook.com/thefellowmhk/", target="_blank") Facebook
+				a(href="https://twitter.com/thefellowmhk", target="_blank") Twitter
+				
+	.group-wrapper
+		.group
+			img.pic(src="images/spaces/ironclad.jpg")
+			h2 Iron Clad
+			h4 427 Lincoln Ave, Wamego, KS 66547
+			p Coworking is happening around the world and is now in Wamego at Iron Clad! They also offer traditional office space and have a great venue for hosting events.
+			.links
+				a(href="http://www.ironcladwamego.com", target="_blank") Website
+				a(href="https://www.facebook.com/ironcladwamego", target="_blank") Facebook
+				a(href="https://twitter.com/ironcladwamego", target="_blank") Twitter
+
+
+		br
+		br
+		p
+			| Are we missing something? Add your space&nbsp;
+			a(href="https://github.com/FlintHillsIO/manhattech", target="_blank") here
+			| !
