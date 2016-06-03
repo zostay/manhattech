@@ -168,15 +168,15 @@ a:visited {
 
 /* footer */
 .footer {
-	padding: 5em 0;
+	padding: 4em 0;
 	color: #888;
 	float: left;
 	width: 100%;
-	font-size: 14px;
+	font-size: 18px;
 	text-align: center;
 }
 .footer a {
-	color: #888;
+	color: #28004d;
 }
 
 /* wider screen versions */
